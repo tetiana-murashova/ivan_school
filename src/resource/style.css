@@ -1,0 +1,38 @@
+
+
+
+
+.nav-2-button {
+    background-color: white;
+    display: flex;
+    height: 100px;
+    border-left: 6px solid gold;
+    box-shadow: 6px 9px 5px 1px rgba(0,0,0,0.49);
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-2-button:hover {
+    cursor: pointer;
+    background-color: rgb(246, 221, 145);
+    padding-left: 1.5rem;
+    transition: padding-left .6s;
+
+}
+
+
+.about-sch {
+    border: 1px ridge black;
+    box-shadow:  6px 9px 5px 1px rgba(0,0,0,0.49);
+    padding: 30px;
+    border-radius: 4px;
+}
+
+
+
+.wfm-active {
+    background-color: rgb(204, 40, 41);
+    padding: 4px;
+    color: black;
+}
+
